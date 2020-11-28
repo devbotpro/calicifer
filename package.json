@@ -1,0 +1,16 @@
+{
+  "name": "node-http-server",
+  "version": "1.0.0",
+  "description": "Node.js example server starter project",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot"
+  },
+  "dependencies": {
+    "discord.js": "12.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
